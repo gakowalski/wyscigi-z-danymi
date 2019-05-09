@@ -6,7 +6,7 @@ Niniejsza gra edukacyjna została stworzona przez pracowników Urzędu Ochrony D
 
 ## Modyfikacja gry
 
-Gra jest wykonana z użyciem środowiska [Unity](https://unity.com/) w wersji 2018.3. W celu modyfikacji należy zainstalować środowisko w tej wersji lub nowszej (przy nowszych wersjach może być wymagana aktualizacja plików projektu). Aby otworzyć projekt gry należy wybrać "Gra planszowa" jako folder projektu.
+Gra jest wykonana z użyciem środowiska [Unity](https://unity.com/) w wersji 2018.3.0f2. W celu modyfikacji należy zainstalować środowisko w tej wersji lub nowszej. Przy nowszych wersjach może być wymagana aktualizacja plików projektu albo nawet zupełny reimport. Aby otworzyć projekt gry należy wybrać "Gra planszowa" jako folder projektu.
 
 ## Licencja
 
